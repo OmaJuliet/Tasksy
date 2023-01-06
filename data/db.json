@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Peace's Birthday Party",
+      "details": "Peace bd party taking place at reboot lounge, tempsite, Awka, Anambra State",
+      "category": "personal"
+    },
+    {
+      "id": 2,
+      "title": "My Projects",
+      "details": "Artsy web app, Easy Africana project, N-Academy site, Task manager application",
+      "category": "work"
+    },
+    {
+      "id": 3,
+      "title": "Accounting record keeping",
+      "details": "Work on my final year school project: effectiveness of acct record keeping on SSBs",
+      "category": "school"
+    },
+    {
+      "title": "Easy Africana",
+      "details": "Work on the services page of easy africana website",
+      "category": "work",
+      "id": 4
+    }
+  ]
+}
